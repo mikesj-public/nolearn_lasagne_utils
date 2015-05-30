@@ -1,0 +1,1 @@
+This is my attempt to take some of the training processing code out of nolearn's 'NeuralNetwork' class, in order to use it in more diverse situations than just layered nets, in particular where we have more than one input location, or output location.  This is basically an exercise in rearranging code, I take no credit for the functionality.
